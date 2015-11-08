@@ -2,4 +2,4 @@
 
 Simple Volley library nkarner bernelu hamar
 
-![Sample dashboard](https://github.com/ripienaar/gdash/raw/master/sample/email.png)
+![Sample dashboard](http://i.imgur.com/xkefcp4.png?1)
